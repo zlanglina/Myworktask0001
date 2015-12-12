@@ -1,0 +1,11 @@
+h1{color:blue;} 
+h2{font-size:14px;}
+.p{font-size:12px;color:yellow;background-color:black;}
+img{border:red 2px solid;}
+.d{background-color:red;width:960px;margin-right:auto;margin-left:auto;margin-top:0px;margin-bottom:0px;}
+em{position:absolute;width:500px;height:200px;margin-left:-250px;margin-top:50px;background-color:red;left:50%;}
+.b1,.b2,.b3,.b4,.b5,.b6,.b7,.b8{}{height:1px; font-size:1px; overflow:hidden; display:block;}
+.b1,.b8{}{margin:0 5px;}
+.b2,.b7{}{margin:0 3px;border-right:2px solid; border-left:2px solid;}
+.b3,.b6{}{margin:0 2px;border-right:1px solid; border-left:1px solid;}
+.b4,.b5{}{margin:0 1px;border-right:1px solid; border-left:1px solid; height:2px;}
